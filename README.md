@@ -1,4 +1,4 @@
-# Speech-To-Text-App-iOS-
+# Speech To Text App (iOS)
 
 ### Used Swift 5, AVKit and Speech to convert Speech to Text.
 
